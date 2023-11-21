@@ -1,6 +1,7 @@
 body{
 background-color: #FFD966;
 font-size: 30px;
+font-family: 'Vina Sans', sans-serif;
 }
 
 #motivo{
@@ -8,7 +9,3 @@ font-size: 30px;
 font-weight: 300;
 }
 
-#titulo{
-    font-family: 'Vina Sans', sans-serif;
-
-}
